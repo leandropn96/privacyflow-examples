@@ -1,2 +1,3 @@
-# privacyflow-examples
+# Privacyflow Examples
+
 Exemplos de implementação dos scripts do privacyflow nos principais frameworks e libraries de front-end
